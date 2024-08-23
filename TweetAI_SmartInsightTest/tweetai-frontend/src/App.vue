@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <AutobotCount />
-    <!-- Other components and content -->
   </div>
 </template>
 
@@ -9,8 +8,13 @@
 import AutobotCount from './components/AutobotCount.vue';
 
 export default {
+  name: 'App',
   components: {
-    AutobotCount
-  }
+    AutobotCount,
+  },
 };
 </script>
+
+<style>
+/* Add your global styles here */
+</style>
