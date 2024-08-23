@@ -19,7 +19,8 @@ And post comments
 Make sure no developer can make more than 5 requests per minute and each request can
 only return 10 data results per request
 
-API DOCUMENTATION FOR DEVELOPERS
+**API DOCUMENTATION FOR DEVELOPERS**
+
 http://localhost:3000 
 
 http://localhost:3000/api/autobots
