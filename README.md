@@ -1,9 +1,9 @@
-**THE PREMISE** :-
+**THE PREMISE**
 
 TweetAI is an AI social media platform where all users are not real. They are basically AI users,
 they are created programmatically and are called Autobots.
 
-**THE TASK** :-
+**THE TASK**
 
 So, you are to create a service for that platform that does this:
 Program a background process that automatically creates 500 new unique Autobots every
@@ -26,9 +26,9 @@ only return 10 data results per request
 http://localhost:3000 
 
 http://localhost:3000/api/autobots
+
 Expected Result: A list of Autobots should be returned in JSON format.
 
 Test the Get Autobots Count Endpoint
 
-check the GET /api/autobots/count endpoint:
-URL: http://localhost:3000/api/autobots/count
+check the GET /api/autobots/count endpoint: URL: http://localhost:3000/api/autobots/count
