@@ -1,8 +1,10 @@
 **THE PREMISE** :-
+
 TweetAI is an AI social media platform where all users are not real. They are basically AI users,
 they are created programmatically and are called Autobots.
 
 **THE TASK** :-
+
 So, you are to create a service for that platform that does this:
 Program a background process that automatically creates 500 new unique Autobots every
 hour in a background.
